@@ -43,7 +43,7 @@ public class Main
 ~~~
 
 ## OUTPUT:
-![output](img.png)
+![1](https://github.com/abdulwasih2003/EXP-1-Java-program-to-print-the-Arithmetic-operations/assets/91781810/604c6f58-02f3-4027-ae3c-c03be9dc77b5)
 
 ## RESULT:
 Thus the java program to print the arithmetic operations is successful.
